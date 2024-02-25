@@ -1,4 +1,4 @@
-package com.chuevalexander;
+package com.chuevalexander.lesson7;
 
 import com.chuevalexander.lesson7.Bus;
 
