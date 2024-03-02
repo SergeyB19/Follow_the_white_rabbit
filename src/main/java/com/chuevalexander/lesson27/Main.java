@@ -18,8 +18,6 @@ public class Main {
         robot.getHead().burn();
         robot1.getHead().turn();
 
-        Robot robot2 = new Robot(body, mediumHead);
-        robot2 = robot1;
 
     }
 }
